@@ -29,7 +29,6 @@ function App() {
   // Extraer datos
   const {datos} = resumen;
 
-
   return (
     <Contenedor>
       <Header

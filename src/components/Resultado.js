@@ -1,7 +1,9 @@
 import React from 'react';
 
 const Resultado = () => {
-    return (  );
+    return ( 
+        <h1>Test</h1>
+     );
 }
  
 export default Resultado;
